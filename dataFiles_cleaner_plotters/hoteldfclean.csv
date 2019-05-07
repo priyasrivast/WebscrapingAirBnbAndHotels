@@ -1,0 +1,625 @@
+,city,hotel_name,acc_type,price,hotel_star,no_of_ratings,rating,occupancy,no_of_rooms,no_of_guests
+0,Orlando,"Sonesta ES Suites Orlando - International Drive, Orlando",HOTEL,129,3.5,859.0,4.4,"1 room, 3 adults",1,3
+1,Orlando,"CoCo Key Hotel and Water Resort-Orlando, Orlando",HOTEL,65,3.0,1845.0,3.2,"1 room, 3 adults",1,3
+2,Orlando,"The Grand Orlando Resort at Celebration, Kissimmee",HOTEL,62,3.5,2946.0,3.4,"1 room, 3 adults",1,3
+3,Orlando,"Holiday Inn & Suites Across From Universal Orlando, Orlando",HOTEL,79,3.0,873.0,3.9,"1 room, 3 adults",1,3
+4,Orlando,"Howard Johnson by Wyndham Tropical Palms Kissimmee, Kissimmee",HOTEL,30,2.0,1423.0,2.9,"1 room, 3 adults",1,3
+5,Orlando,"Baymont by Wyndham Kissimmee, Kissimmee",HOTEL,59,2.5,433.0,3.0,"1 room, 3 adults",1,3
+6,Orlando,"Holiday Inn Orlando International Airport, Orlando",HOTEL,88,3.0,412.0,3.6,"1 room, 3 adults",1,3
+7,Orlando,"Clarion Inn Lake Buena Vista, a Rosen Hotel, Orlando",HOTEL,150,3.0,1417.0,4.0,"1 room, 3 adults",1,3
+8,Orlando,"Days Inn & Suites by Wyndham Altamonte Springs, Altamonte Springs",HOTEL,71,2.0,523.0,2.6,"1 room, 3 adults",1,3
+9,Orlando,"Delta Hotels by Marriott Orlando Lake Buena Vista, Orlando",HOTEL,79,4.0,815.0,4.3,"1 room, 3 adults",1,3
+10,Orlando,"Hyatt Regency Orlando International Airport, Orlando",HOTEL,199,4.0,1763.0,4.5,"1 room, 3 adults",1,3
+11,Orlando,"Seralago Hotel & Suites Main Gate East, Kissimmee",HOTEL,55,3.0,3195.0,3.1,"1 room, 3 adults",1,3
+12,Orlando,"Best Western Orlando East Inn & Suites, Orlando",HOTEL,89,2.5,563.0,3.7,"1 room, 3 adults",1,3
+13,Orlando,"Bryan's Spanish Cove by Diamond Resorts, Orlando",HOTEL,148,3.0,336.0,4.5,"1 room, 3 adults",1,3
+14,Orlando,"Renaissance Orlando Airport Hotel by Marriott, Orlando",HOTEL,118,4.0,468.0,4.3,"1 room, 3 adults",1,3
+15,Orlando,"The Villas of Grand Cypress, Orlando",HOTEL,223,4.5,241.0,4.8,"1 room, 3 adults",1,3
+16,Orlando,"Days Inn by Wyndham N Orlando/Casselberry, Fern Park",HOTEL,85,2.0,190.0,2.6,"1 room, 3 adults",1,3
+17,Orlando,"Avanti International Resort, Orlando",HOTEL,74,3.0,3905.0,3.8,"1 room, 3 adults",1,3
+18,Orlando,"Flamingo Waterpark Resort, Kissimmee",HOTEL,41,3.0,512.0,3.3,"1 room, 3 adults",1,3
+19,Orlando,"Buena Vista Suites, Orlando",HOTEL,88,3.5,2222.0,4.0,"1 room, 3 adults",1,3
+20,Orlando,"Avanti Palms Resort and Conference Center, Orlando",HOTEL,80,3.5,1953.0,3.3,"1 room, 3 adults",1,3
+22,Orlando,"Four Points by Sheraton Orlando International Drive, Orlando",HOTEL,101,3.5,627.0,4.0,"1 room, 3 adults",1,3
+23,Orlando,"Legacy Vacation Resorts-Orlando, Kissimmee",HOTEL,66,3.0,1487.0,3.7,"1 room, 3 adults",1,3
+24,Orlando,"Courtyard by Marriott Orlando Airport, Orlando",HOTEL,74,3.0,316.0,4.2,"1 room, 3 adults",1,3
+25,Orlando,"Disney's Port Orleans Resort - Riverside, Lake Buena Vista",HOTEL,215,3.5,640.0,4.3,"1 room, 3 adults",1,3
+26,Orlando,"Marriott Orlando Downtown, Orlando",HOTEL,130,3.5,350.0,4.0,"1 room, 3 adults",1,3
+27,Orlando,"DoubleTree by Hilton at the Entrance to Universal Orlando, Orlando",HOTEL,98,4.0,2017.0,4.2,"1 room, 3 adults",1,3
+29,Orlando,"Sulaf Hotel LBV South, Kissimmee",HOTEL,45,2.5,374.0,2.6,"1 room, 3 adults",1,3
+30,Orlando,"Hampton Inn Orlando Near Universal Blv/International Dr, Orlando",HOTEL,89,2.5,472.0,4.3,"1 room, 3 adults",1,3
+31,Orlando,"Holiday Inn Club Vacations at Orange Lake Resort, Kissimmee",HOTEL,129,4.0,1239.0,4.2,"1 room, 3 adults",1,3
+32,Orlando,"Econo Lodge Kissimmee, Kissimmee",HOTEL,40,1.5,789.0,2.5,"1 room, 3 adults",1,3
+33,Orlando,"Courtyard by Marriott Orlando International Dr / Conv Cntr, Orlando",HOTEL,79,3.0,195.0,4.4,"1 room, 3 adults",1,3
+34,Orlando,"Ramada by Wyndham Orlando Florida Mall, Orlando",HOTEL,99,2.5,517.0,4.2,"1 room, 3 adults",1,3
+35,Orlando,"Embassy Suites by Hilton Orlando International Dr Conv Ctr, Orlando",HOTEL,114,3.5,493.0,4.3,"1 room, 3 adults",1,3
+36,Orlando,"Royale Parc Suites Kissimmee, Kissimmee",HOTEL,84,3.0,1009.0,4.0,"1 room, 3 adults",1,3
+37,Orlando,"Quality Inn Orlando Airport, Orlando",HOTEL,64,2.5,1646.0,3.5,"1 room, 3 adults",1,3
+38,Orlando,"Orbit One Vacation Villas by Diamond Resorts, Kissimmee",HOTEL,94,3.0,463.0,4.4,"1 room, 3 adults",1,3
+39,Orlando,"Rosen Plaza on International Drive, Orlando",HOTEL,111,3.5,606.0,4.5,"1 room, 3 adults",1,3
+40,Orlando,"Enclave Hotel & Suites Orlando, a staySky Hotel & Resort, Orlando",HOTEL,125,2.5,463.0,3.6,"1 room, 3 adults",1,3
+41,Orlando,"Red Lion Hotel Orlando Lake Buena Vista South, Kissimmee",HOTEL,81,3.5,381.0,4.5,"1 room, 3 adults",1,3
+42,Orlando,"Holiday Inn Orlando SW - Celebration Area, Kissimmee",HOTEL,64,3.0,1770.0,3.5,"1 room, 3 adults",1,3
+43,Orlando,Travelodge Suites by Wyndham Kissimmee Orange,HOTEL,50,2.0,731.0,3.2,"1 room, 3 adults",1,3
+44,Orlando,"Florida Vacation Villas, Kissimmee",HOTEL,109,3.5,39.0,3.5,"1 room, 3 adults",1,3
+45,Orlando,"Sheraton Suites Orlando Airport, Orlando",HOTEL,101,3.5,1045.0,4.4,"1 room, 3 adults",1,3
+46,Orlando,"Sheraton Orlando North Hotel, Maitland",HOTEL,93,3.5,931.0,4.2,"1 room, 3 adults",1,3
+47,Orlando,"Disney's Beach Club Villas, Lake Buena Vista",HOTEL,436,4.0,910.0,4.7,"1 room, 3 adults",1,3
+48,Orlando,"Rosen Inn at Pointe Orlando, Orlando",HOTEL,72,3.0,2033.0,4.1,"1 room, 3 adults",1,3
+49,Orlando,"Disney's Old Key West Resort, Lake Buena Vista",HOTEL,540,3.5,36.0,4.5,"1 room, 3 adults",1,3
+50,Orlando,"Quality Suites, Orlando",HOTEL,71,2.5,808.0,3.2,"1 room, 3 adults",1,3
+51,Orlando,"Disney's Caribbean Beach Resort, Lake Buena Vista",HOTEL,204,3.5,621.0,3.9,"1 room, 3 adults",1,3
+52,Orlando,"Hyatt Regency Orlando, Orlando",HOTEL,139,4.5,1360.0,4.5,"1 room, 3 adults",1,3
+53,Orlando,"Hilton Orlando/Altamonte Springs, Altamonte Springs",HOTEL,114,4.0,310.0,4.0,"1 room, 3 adults",1,3
+54,Orlando,"Courtyard by Marriott Lake Buena Vista at Vista Centre, Orlando",HOTEL,85,3.0,940.0,4.0,"1 room, 3 adults",1,3
+55,Orlando,"Walt Disney World Swan, Lake Buena Vista",HOTEL,143,4.0,1685.0,4.3,"1 room, 3 adults",1,3
+56,Orlando,"Travelodge by Wyndham Orlando Downtown Centroplex, Orlando",HOTEL,99,2.0,450.0,2.5,"1 room, 3 adults",1,3
+57,Orlando,"Celebration Suites, Kissimmee",HOTEL,65,3.0,5685.0,3.8,"1 room, 3 adults",1,3
+58,Orlando,"Rodeway Inn, Apopka",HOTEL,69,2.0,33.0,2.7,"1 room, 3 adults",1,3
+59,Orlando,"DoubleTree by Hilton Orlando Downtown, Orlando",HOTEL,118,3.5,695.0,4.0,"1 room, 3 adults",1,3
+60,Orlando,"Residence Inn Orlando Altamonte Springs/Maitland, Altamonte Springs",HOTEL,99,3.0,135.0,4.3,"1 room, 3 adults",1,3
+61,Orlando,"Disney's Contemporary Resort, Lake Buena Vista",HOTEL,530,4.0,220.0,4.3,"1 room, 3 adults",1,3
+62,Orlando,"Disney's All-Star Music Resort, Lake Buena Vista",HOTEL,106,3.0,1183.0,4.1,"1 room, 3 adults",1,3
+63,Orlando,"Disney's Yacht Club Resort, Lake Buena Vista",HOTEL,380,4.0,144.0,4.5,"1 room, 3 adults",1,3
+64,Orlando,"Rosen Inn International, Orlando",HOTEL,72,3.0,1702.0,4.0,"1 room, 3 adults",1,3
+65,Orlando,"Orlando World Center Marriott, Orlando",HOTEL,179,4.0,779.0,4.3,"1 room, 3 adults",1,3
+66,Orlando,"Rosen Centre Hotel, Orlando",HOTEL,119,4.0,881.0,4.5,"1 room, 3 adults",1,3
+67,Orlando,"Hilton Orlando Lake Buena Vista - Disney SpringsÂ® Area, Lake Buena Vista",HOTEL,137,4.0,1369.0,4.0,"1 room, 3 adults",1,3
+68,Orlando,"Econo Lodge Inn & Suites Near Florida Mall, Orlando",HOTEL,70,2.5,538.0,2.8,"1 room, 3 adults",1,3
+69,Orlando,"TownePlace Suites Orlando Altamonte Springs/Maitland, Altamonte Springs",HOTEL,107,3.0,65.0,4.6,"1 room, 3 adults",1,3
+70,Orlando,"Sheraton Orlando Lake Buena Vista Resort, Orlando",HOTEL,99,4.0,1230.0,3.7,"1 room, 3 adults",1,3
+71,Orlando,"DoubleTree by Hilton Orlando Airport, Orlando",HOTEL,112,3.5,337.0,4.1,"1 room, 3 adults",1,3
+72,Orlando,"Radisson Hotel Orlando-Lake Buena Vista, Orlando",HOTEL,99,3.5,1490.0,4.2,"1 room, 3 adults",1,3
+73,Orlando,"Hampton Inn closest to Universal Orlando, Orlando",HOTEL,108,2.5,399.0,4.5,"1 room, 3 adults",1,3
+74,Orlando,"Walt Disney World Dolphin, Lake Buena Vista",HOTEL,169,4.0,2957.0,4.1,"1 room, 3 adults",1,3
+75,Orlando,"Days Inn by Wyndham Orlando Near Millenia Mall, Orlando",HOTEL,44,2.0,1796.0,2.1,"1 room, 3 adults",1,3
+76,Orlando,"Ramada by Wyndham Orlando Near Convention Center, Orlando",HOTEL,60,2.5,1004.0,2.9,"1 room, 3 adults",1,3
+77,Orlando,"Parc Corniche Condominium Suite Hotel, Orlando",HOTEL,99,3.0,667.0,3.9,"1 room, 3 adults",1,3
+78,Orlando,"Travelodge by Wyndham Orlando Near Florida Mall, Orlando",HOTEL,46,2.0,503.0,2.3,"1 room, 3 adults",1,3
+79,Orlando,"Embassy Suites Lake Buena Vista Resort, Orlando",HOTEL,95,4.0,1057.0,4.2,"1 room, 3 adults",1,3
+81,Orlando,"Palazzo Lakeside Hotel, an Ascend Hotel Collection Member, Kissimmee",HOTEL,62,2.5,90.0,4.0,"1 room, 3 adults",1,3
+82,Orlando,"The Cabins at Disney's Fort Wilderness Resort, Lake Buena Vista",HOTEL,290,3.5,156.0,4.6,"1 room, 3 adults",1,3
+83,Orlando,"Orlando Airport Marriott Lakeside, Orlando",HOTEL,110,4.0,550.0,4.4,"1 room, 3 adults",1,3
+84,Orlando,"Best Western Orlando West, Orlando",HOTEL,99,2.5,474.0,3.4,"1 room, 3 adults",1,3
+85,Orlando,"Baymont by Wyndham Celebration, Kissimmee",HOTEL,54,3.0,2625.0,3.5,"1 room, 3 adults",1,3
+86,Orlando,"Quality Inn & Suites Near the Theme Parks, Orlando",HOTEL,76,2.5,482.0,3.9,"1 room, 3 adults",1,3
+87,Orlando,"Holiday Inn Orlando - Disney SpringsÂ® Area, Lake Buena Vista",HOTEL,101,3.5,1069.0,4.3,"1 room, 3 adults",1,3
+88,Orlando,"Wyndham Orlando Resort International Drive, Orlando",HOTEL,87,3.5,2175.0,3.6,"1 room, 3 adults",1,3
+89,Orlando,"La Quinta Inn by Wyndham Orlando International Drive North, Orlando",HOTEL,76,2.5,798.0,3.7,"1 room, 3 adults",1,3
+90,Orlando,"Boulder Ridge Villas at Disney's Wilderness Lodge, Lake Buena Vista",HOTEL,1073,4.0,10.0,4.5,"1 room, 3 adults",1,3
+91,Orlando,"B Resort & Spa in the Disney Springs Resort Areaâ¢, Lake Buena Vista",HOTEL,119,4.0,3153.0,4.0,"1 room, 3 adults",1,3
+92,Orlando,"Disney's Port Orleans Resort French Quarter, Lake Buena Vista",HOTEL,250,3.5,338.0,4.4,"1 room, 3 adults",1,3
+93,Orlando,"Days Inn by Wyndham Orlando Conv. Center/International Dr, Orlando",HOTEL,70,2.0,775.0,3.5,"1 room, 3 adults",1,3
+94,Orlando,"Florida Hotel & Conference Center in the Florida Mall, BW Premier Collection, Orlando",HOTEL,127,3.5,1040.0,4.4,"1 room, 3 adults",1,3
+95,Orlando,"Clarion Inn & Suites Across From Universal Orlando Resort, Orlando",HOTEL,76,3.0,658.0,4.0,"1 room, 3 adults",1,3
+97,Orlando,"Royale Parc Hotel Orlando - Lake Buena Vista , Orlando",HOTEL,71,2.5,1615.0,3.8,"1 room, 3 adults",1,3
+98,Orlando,"Holiday Inn Orlando East - UCF Area, Orlando",HOTEL,96,3.5,365.0,4.4,"1 room, 3 adults",1,3
+99,Orlando,"Days Inn & Suites by Wyndham Orlando East UCF Area, Orlando",HOTEL,76,2.0,286.0,2.7,"1 room, 3 adults",1,3
+100,Orlando,"Hilton Orlando Buena Vista Palace - Disney SpringsÂ® Area, Lake Buena Vista",HOTEL,143,4.0,1481.0,3.9,"1 room, 3 adults",1,3
+101,Orlando,"Quality Suites, Orlando",HOTEL,68,2.0,25.0,3.7,"1 room, 3 adults",1,3
+102,Orlando,"Disney's Polynesian Village Resort, Lake Buena Vista",HOTEL,488,4.0,85.0,4.2,"1 room, 3 adults",1,3
+103,Orlando,"Quality Inn & Suites By the Parks, Kissimmee",HOTEL,79,3.0,534.0,4.3,"1 room, 3 adults",1,3
+104,Orlando,"DoubleTree by Hilton Hotel Orlando at SeaWorld, Orlando",HOTEL,79,3.5,1148.0,3.8,"1 room, 3 adults",1,3
+105,Orlando,"Baymont by Wyndham Florida Mall, Orlando",HOTEL,37,2.5,465.0,3.3,"1 room, 3 adults",1,3
+107,Orlando,"Disney's Grand Floridian Resort & Spa, Lake Buena Vista",HOTEL,482,4.5,259.0,4.5,"1 room, 3 adults",1,3
+108,Orlando,"Castle Hotel, Autograph Collection, Orlando",HOTEL,111,4.0,406.0,4.5,"1 room, 3 adults",1,3
+109,Orlando,"Wyndham Lake Buena Vista Disney SpringsÂ® Resort Area, Lake Buena Vista",HOTEL,103,4.0,6721.0,4.2,"1 room, 3 adults",1,3
+110,Orlando,"Holiday Inn Resort Orlando - Lake Buena Vista, Orlando",HOTEL,74,3.5,1164.0,4.2,"1 room, 3 adults",1,3
+111,Orlando,"The Alfond Inn, Winter Park",HOTEL,249,4.0,331.0,4.8,"1 room, 3 adults",1,3
+112,Orlando,"DoubleTree by Hilton Hotel Orlando East - UCF Area, Orlando",HOTEL,95,3.5,511.0,4.4,"1 room, 3 adults",1,3
+113,Orlando,"Ramada by Wyndham Altamonte Springs, Altamonte Springs",HOTEL,79,2.5,437.0,3.1,"1 room, 3 adults",1,3
+114,Orlando,"Rodeway Inn International Drive, Orlando",HOTEL,51,2.5,2579.0,1.8,"1 room, 3 adults",1,3
+115,Orlando,"Red Lion Hotel Orlando Kissimmee Maingate, Kissimmee",HOTEL,60,3.0,2256.0,3.9,"1 room, 3 adults",1,3
+116,Orlando,"Maingate Lakeside Resort, Kissimmee",HOTEL,49,3.0,3294.0,2.9,"1 room, 3 adults",1,3
+117,Orlando,"Crowne Plaza Orlando - Downtown, Orlando",HOTEL,103,3.5,787.0,4.2,"1 room, 3 adults",1,3
+118,Orlando,"Quality Inn At International Drive, Orlando",HOTEL,74,2.5,1327.0,3.7,"1 room, 3 adults",1,3
+119,Orlando,"Disney's All-Star Sports Resort, Lake Buena Vista",HOTEL,106,3.0,1489.0,4.2,"1 room, 3 adults",1,3
+120,Orlando,"Knights Inn Maingate Kissimmee Orlando, Kissimmee",HOTEL,40,2.0,649.0,2.3,"1 room, 3 adults",1,3
+121,Orlando,"Days Inn by Wyndham Orlando Airport Florida Mall, Orlando",HOTEL,55,2.5,1611.0,3.3,"1 room, 3 adults",1,3
+122,Orlando,"Sheraton Vistana Resort Villas, Lake Buena Vista / Orlando, Orlando",HOTEL,179,4.0,1843.0,4.5,"1 room, 3 adults",1,3
+123,Orlando,"Unno Boutique Hotel, Kissimmee",HOTEL,66,3.0,1843.0,1.3,"1 room, 3 adults",1,3
+124,Orlando,"Renaissance Orlando at SeaWorld, Orlando",HOTEL,119,4.0,3943.0,4.5,"1 room, 3 adults",1,3
+125,Orlando,"DoubleTree Suites by Hilton Orlando - Disney SpringsÂ® Area, Lake Buena Vista",HOTEL,112,3.5,434.0,4.2,"1 room, 3 adults",1,3
+126,Orlando,"Hyatt Place Orlando/Lake Buena Vista, Orlando",HOTEL,109,3.0,917.0,4.5,"1 room, 3 adults",1,3
+127,Orlando,"Altamonte Hotel and Suites, Altamonte Springs",HOTEL,84,2.5,729.0,2.1,"1 room, 3 adults",1,3
+128,Orlando,"Best Western Lake Buena Vista - Disney SpringsÂ® Resort Area, Lake Buena Vista",HOTEL,64,3.0,2481.0,3.9,"1 room, 3 adults",1,3
+129,Orlando,"Embassy Suites Orlando International Drive I Drive 360, Orlando",HOTEL,92,3.5,725.0,4.4,"1 room, 3 adults",1,3
+130,Orlando,"Embassy Suites by Hilton Orlando-North, Altamonte Springs",HOTEL,111,3.5,455.0,4.3,"1 room, 3 adults",1,3
+131,Orlando,"Hyatt Regency Grand Cypress, Orlando",HOTEL,149,4.0,1732.0,4.5,"1 room, 3 adults",1,3
+132,Orlando,"Quality Inn & Suites Winter Park Village Area, Orlando",HOTEL,71,2.5,417.0,3.1,"1 room, 3 adults",1,3
+133,Orlando,"Four Points by Sheraton Orlando Convention Center, Orlando",HOTEL,99,3.0,263.0,3.2,"1 room, 3 adults",1,3
+134,Orlando,"Midpointe Hotel by Rosen Hotels & Resorts, Orlando",HOTEL,51,2.0,642.0,3.6,"1 room, 3 adults",1,3
+135,Orlando,"Red Roof Inn Orlando South - Florida Mall, Orlando",HOTEL,64,2.0,538.0,3.4,"1 room, 3 adults",1,3
+136,Orlando,"Days Inn by Wyndham Orlando/International Drive, Orlando",HOTEL,44,2.0,2096.0,2.1,"1 room, 3 adults",1,3
+137,Orlando,"Floridian Express International Drive, Orlando",HOTEL,56,2.5,904.0,3.0,"1 room, 3 adults",1,3
+138,Orlando,"Sonesta ES Suites Orlando - International Drive, Orlando",HOTEL,129,3.5,859.0,4.4,"1 room, 3 adults",1,3
+139,Orlando,"Staybridge Suites Orlando/Lake Buena Vista, Orlando",HOTEL,109,3.0,418.0,4.4,"1 room, 3 adults",1,3
+140,Orlando,"Days Inn & Suites by Wyndham Orlando Airport, Orlando",HOTEL,66,2.0,1299.0,3.3,"1 room, 3 adults",1,3
+141,Orlando,"La Quinta Inn by Wyndham Orlando Airport West, Orlando",HOTEL,76,2.5,1093.0,3.4,"1 room, 3 adults",1,3
+142,Orlando,"Best Western International Drive - Orlando, Orlando",HOTEL,84,2.5,1055.0,4.1,"1 room, 3 adults",1,3
+143,Orlando,"Hampton Inn Orlando-International Airport, Orlando",HOTEL,98,2.5,412.0,4.5,"1 room, 3 adults",1,3
+144,Orlando,"Rosen Inn, closest to Universal, Orlando",HOTEL,70,3.0,2377.0,4.2,"1 room, 3 adults",1,3
+145,Orlando,"Disney's BoardWalk Inn, Lake Buena Vista",HOTEL,380,4.0,102.0,4.5,"1 room, 3 adults",1,3
+146,Orlando,"Best Western Orlando Gateway Hotel, Orlando",HOTEL,61,3.0,2701.0,4.2,"1 room, 3 adults",1,3
+147,Orlando,"Ramada by Wyndham Kissimmee Gateway, Kissimmee",HOTEL,51,3.0,3222.0,3.4,"1 room, 3 adults",1,3
+148,Orlando,"Baymont by Wyndham Orlando Universal Blvd, Orlando",HOTEL,63,3.0,962.0,3.6,"1 room, 3 adults",1,3
+149,Orlando,"Caribe Royale All-Suite Hotel, Orlando",HOTEL,82,4.0,4805.0,4.2,"1 room, 3 adults",1,3
+150,Orlando,"Clarion Suites Kissimmee-Orlando Maingate, Kissimmee",HOTEL,80,3.0,530.0,3.8,"1 room, 3 adults",1,3
+151,Orlando,"GreenPoint Hotel Kissimmee, Kissimmee",HOTEL,63,2.5,341.0,4.3,"1 room, 3 adults",1,3
+152,Orlando,"Days Inn by Wyndham Orlando Downtown, Orlando",HOTEL,67,2.0,670.0,2.7,"1 room, 3 adults",1,3
+153,Orlando,"SUNSOL International Drive, Orlando",HOTEL,75,3.0,1185.0,3.8,"1 room, 3 adults",1,3
+154,Orlando,"Disney's Coronado Springs Resort, Lake Buena Vista",HOTEL,161,3.5,872.0,4.2,"1 room, 3 adults",1,3
+155,Orlando,"Ramada by Wyndham Davenport Orlando South, Davenport",HOTEL,50,2.5,530.0,2.8,"1 room, 3 adults",1,3
+156,Orlando,"Saratoga Resort Villas Kissimmee, Kissimmee",HOTEL,119,3.5,818.0,4.2,"1 room, 3 adults",1,3
+157,Orlando,"La Quinta by Wyndham Orlando South, Orlando",HOTEL,59,2.5,454.0,3.4,"1 room, 3 adults",1,3
+158,Orlando,"Champions World Resort, Kissimmee",HOTEL,53,3.0,2265.0,3.6,"1 room, 3 adults",1,3
+159,Orlando,"Park Inn by Radisson Resort & Conference Center Orlando, Kissimmee",HOTEL,64,3.0,1560.0,3.2,"1 room, 3 adults",1,3
+161,Orlando,"Legacy Vacation Resorts-Lake Buena Vista, Orlando",HOTEL,108,3.0,461.0,4.1,"1 room, 3 adults",1,3
+162,Orlando,"Marriott's Sabal Palms, Orlando",HOTEL,259,4.0,23.0,4.7,"1 room, 3 adults",1,3
+163,Orlando,"Marriott's Cypress Harbour Villas, Orlando",HOTEL,219,4.0,135.0,4.8,"1 room, 3 adults",1,3
+164,Orlando,"Marriott's Imperial Palm Villas, Orlando",HOTEL,359,4.0,6.0,4.7,"1 room, 3 adults",1,3
+165,Orlando,"Grand Beach by Diamond Resorts, Orlando",HOTEL,121,3.0,1157.0,4.6,"1 room, 3 adults",1,3
+166,Orlando,"Howard Johnson by Wyndham Lake Front Park Kissimmee, Kissimmee",HOTEL,61,2.0,366.0,3.1,"1 room, 3 adults",1,3
+167,Orlando,"Quality Inn & Suites Kissimmee by The Lake, Kissimmee",HOTEL,70,2.5,296.0,3.9,"1 room, 3 adults",1,3
+168,Orlando,"Courtyard by Marriott Orlando East/UCF Area, Orlando",HOTEL,119,3.0,124.0,4.1,"1 room, 3 adults",1,3
+169,Orlando,"Amber Inn & Suites, Kissimmee",HOTEL,83,2.0,43.0,2.8,"1 room, 3 adults",1,3
+170,Orlando,"Magnuson Hotel Kissimmee Maingate, Kissimmee",HOTEL,30,2.0,1312.0,2.6,"1 room, 3 adults",1,3
+171,Orlando,"Disney's BoardWalk Villas, Lake Buena Vista",HOTEL,401,4.0,49.0,4.5,"1 room, 3 adults",1,3
+173,Orlando,"Fairfield Inn By Marriott Orlando Airport, Orlando",HOTEL,76,2.5,290.0,4.5,"1 room, 3 adults",1,3
+174,Orlando,"Fairfield Inn & Suites Orlando Lake Buena Vista, Orlando",HOTEL,83,3.0,1037.0,4.3,"1 room, 3 adults",1,3
+175,Orlando,"Galleria Palms Hotel, Kissimmee",HOTEL,72,2.5,2172.0,4.3,"1 room, 3 adults",1,3
+176,Orlando,"Extended Stay America-Orlando-Convention Ctr-Sports Complex, Orlando",HOTEL,71,2.5,346.0,3.0,"1 room, 3 adults",1,3
+178,Orlando,"Hampton Inn & Suites Orlando/East UCF Area, FL, Orlando",HOTEL,116,2.5,307.0,4.6,"1 room, 3 adults",1,3
+179,Orlando,"Westgate Vacation Villas Resort, Kissimmee",HOTEL,119,3.5,4114.0,3.6,"1 room, 3 adults",1,3
+180,Orlando,"Summer Bay Orlando by Exploria Resorts, Clermont",HOTEL,83,3.5,1219.0,4.2,"1 room, 3 adults",1,3
+181,Orlando,"Extended Stay America-Orlando-Convention Ctr-Universal Blvd, Orlando",HOTEL,90,2.5,548.0,3.6,"1 room, 3 adults",1,3
+182,Orlando,"Extended Stay America - Orlando - Lake Buena Vista, Orlando",HOTEL,76,2.5,235.0,3.3,"1 room, 3 adults",1,3
+183,Orlando,"Westgate Palace a Two Bedroom Condo Resort, Orlando",HOTEL,189,4.0,1051.0,3.9,"1 room, 3 adults",1,3
+184,Orlando,"Extended Stay America - Orlando Theme Parks - Vineland Rd., Orlando",HOTEL,81,2.5,293.0,3.4,"1 room, 3 adults",1,3
+185,Orlando,"Ramada by Wyndham Suites Orlando Airport, Orlando",HOTEL,92,3.0,1151.0,3.7,"1 room, 3 adults",1,3
+186,Orlando,"La Quinta by Wyndham Orlando Airport North, Orlando",HOTEL,93,2.5,1453.0,4.3,"1 room, 3 adults",1,3
+187,Orlando,"Extended Stay America - Orlando - Altamonte Springs, Altamonte Springs",HOTEL,62,2.5,809.0,3.4,"1 room, 3 adults",1,3
+188,Orlando,"Hawthorn Suites by Wyndham Orlando Altamonte Springs, Altamonte Springs",HOTEL,71,3.0,709.0,3.9,"1 room, 3 adults",1,3
+189,Orlando,"Courtyard by Marriott Altamonte Springs/Maitland, Orlando",HOTEL,89,3.0,144.0,4.3,"1 room, 3 adults",1,3
+190,Orlando,"Extended Stay America - Orlando - Southpark - Equity Row, Orlando",HOTEL,75,2.5,387.0,3.2,"1 room, 3 adults",1,3
+191,Orlando,Comfort Suites UCF/Research Park,HOTEL,81,2.5,347.0,4.4,"1 room, 3 adults",1,3
+192,Orlando,"Courtyard by Marriott Orlando Downtown, Orlando",HOTEL,143,3.0,356.0,4.5,"1 room, 3 adults",1,3
+193,Orlando,"Best Western Plus Universal Inn, Orlando",HOTEL,100,2.5,1071.0,4.2,"1 room, 3 adults",1,3
+194,Orlando,"Wingate by Wyndham Convention Ctr Closest Universal Orlando, Orlando",HOTEL,98,2.5,1353.0,4.1,"1 room, 3 adults",1,3
+195,Orlando,"HomeTowne Studios Orlando - UCF Area, Orlando",HOTEL,63,2.0,338.0,2.6,"1 room, 3 adults",1,3
+196,Orlando,"Embassy Suites by Hilton Orlando Airport , Orlando",HOTEL,129,3.5,223.0,4.3,"1 room, 3 adults",1,3
+197,Orlando,"Westgate Towers Resort, Kissimmee",HOTEL,89,3.5,724.0,4.2,"1 room, 3 adults",1,3
+198,Orlando,"Golden Link Resort Motel, Kissimmee",HOTEL,38,2.0,557.0,3.5,"1 room, 3 adults",1,3
+200,Orlando,"Econo Lodge Inn & Suites Maingate Central, Kissimmee",HOTEL,28,2.0,1134.0,3.0,"1 room, 3 adults",1,3
+201,Orlando,"Marriott's Royal Palms, Orlando",HOTEL,229,4.0,33.0,4.8,"1 room, 3 adults",1,3
+203,Orlando,"Westgate Blue Tree Resort in Lake Buena Vista, Orlando",HOTEL,129,3.0,124.0,4.0,"1 room, 3 adults",1,3
+205,Orlando,"Star Island Resort and Club, Kissimmee",HOTEL,93,3.5,3419.0,4.2,"1 room, 3 adults",1,3
+206,Orlando,"Monumental Hotel Orlando, Orlando",HOTEL,72,3.5,348.0,3.9,"1 room, 3 adults",1,3
+207,Orlando,"Disney's All-Star Movies Resort, Lake Buena Vista",HOTEL,129,3.0,1147.0,4.1,"1 room, 3 adults",1,3
+208,Orlando,"Universal's Loews Portofino Bay Hotel, Orlando",HOTEL,374,4.0,424.0,4.6,"1 room, 3 adults",1,3
+209,Orlando,"Hampton Inn Orlando International Drive/Conv Ctr, Orlando",HOTEL,76,2.5,774.0,4.3,"1 room, 3 adults",1,3
+210,Orlando,"Hyatt Place Orlando Convention Center, Orlando",HOTEL,86,3.0,471.0,4.4,"1 room, 3 adults",1,3
+211,Orlando,"Hampton Inn Lake Buena Vista / Orlando, Orlando",HOTEL,111,2.5,486.0,4.5,"1 room, 3 adults",1,3
+212,Orlando,"Extended Stay America-Orlando-Southpark-Commodity Circle, Orlando",HOTEL,66,2.5,379.0,3.3,"1 room, 3 adults",1,3
+213,Orlando,"Hilton Garden Inn Orlando Airport, Orlando",HOTEL,125,3.0,324.0,4.4,"1 room, 3 adults",1,3
+214,Orlando,"Quality Suites Lake Buena Vista, Orlando",HOTEL,95,2.5,853.0,4.2,"1 room, 3 adults",1,3
+215,Orlando,"La Quinta by Wyndham Orlando UCF, Orlando",HOTEL,84,2.5,551.0,4.2,"1 room, 3 adults",1,3
+216,Orlando,"La Quinta by Wyndham Orlando I Drive/Conv Center, Orlando",HOTEL,76,2.5,446.0,3.7,"1 room, 3 adults",1,3
+217,Orlando,"Hampton Inn Orlando-Maingate South, Davenport",HOTEL,100,2.5,208.0,4.2,"1 room, 3 adults",1,3
+218,Orlando,"Extended Stay America - Orlando Theme Parks - Major Blvd., Orlando",HOTEL,71,2.5,328.0,3.1,"1 room, 3 adults",1,3
+219,Orlando,"Comfort Suites Downtown, Orlando",HOTEL,127,2.5,294.0,4.1,"1 room, 3 adults",1,3
+220,Orlando,"Homewood Suites by Hilton Orlando-Int'l Drive/Convention Ctr, Orlando",HOTEL,120,3.0,798.0,4.4,"1 room, 3 adults",1,3
+221,Orlando,"Holiday Inn Resort Orlando Suites - Waterpark, Orlando",HOTEL,80,3.5,3150.0,3.7,"1 room, 3 adults",1,3
+222,Orlando,"Extended Stay America Orlando - Maitland - Pembrook Dr., Orlando",HOTEL,70,2.5,281.0,3.4,"1 room, 3 adults",1,3
+223,Orlando,"Residence Inn by Marriott Orlando Convention Center, Orlando",HOTEL,99,3.0,126.0,4.3,"1 room, 3 adults",1,3
+224,Orlando,"SpringHill Suites by Marriott Convention Center/I-drive, Orlando",HOTEL,67,3.0,542.0,4.4,"1 room, 3 adults",1,3
+225,Orlando,"Holiday Inn Express Orlando International Airport, Orlando",HOTEL,88,2.5,471.0,4.4,"1 room, 3 adults",1,3
+226,Orlando,"Extended Stay America - Orlando - Conv Ctr - 6443 Westwood, Orlando",HOTEL,66,2.5,424.0,3.4,"1 room, 3 adults",1,3
+227,Orlando,"The Floridian Hotel and Suites, Orlando",HOTEL,63,2.5,734.0,3.4,"1 room, 3 adults",1,3
+228,Orlando,"Bohemian Hotel Celebration, Autograph Collection, Celebration",HOTEL,179,4.0,160.0,4.6,"1 room, 3 adults",1,3
+229,Orlando,"Staybridge Suites Orlando Airport South, Orlando",HOTEL,112,3.0,288.0,4.3,"1 room, 3 adults",1,3
+230,Orlando,"Comfort Inn International Dr., Orlando",HOTEL,80,2.5,602.0,3.8,"1 room, 3 adults",1,3
+231,Orlando,"SureStay Hotel by Best Western Clermont Theme Park West, Clermont",HOTEL,54,2.5,192.0,3.5,"1 room, 3 adults",1,3
+232,Orlando,"The Eo Inn - Downtown, Orlando",HOTEL,129,3.0,252.0,4.2,"1 room, 3 adults",1,3
+233,Orlando,"HomeTowne Studios Orlando - Casselberry, Casselberry",HOTEL,54,2.0,326.0,2.3,"1 room, 3 adults",1,3
+234,Orlando,"HomeTowne Studios Orlando South, Orlando",HOTEL,49,2.0,162.0,1.7,"1 room, 3 adults",1,3
+236,Orlando,"Residence Inn by Marriott Orlando East/UCF Area, Orlando",HOTEL,134,3.0,28.0,4.1,"1 room, 3 adults",1,3
+237,Orlando,"Westgate Town Center Resort, Kissimmee",HOTEL,129,3.5,706.0,3.8,"1 room, 3 adults",1,3
+238,Orlando,"Destiny Palms Hotel Maingate West, Kissimmee",HOTEL,60,2.5,1307.0,4.0,"1 room, 3 adults",1,3
+239,Orlando,"Grande Villas Resort by Diamond Resorts, Orlando",HOTEL,121,3.5,2163.0,4.5,"1 room, 3 adults",1,3
+240,Orlando,"Extended Stay America - Orlando - Maitland-Summit Tower Blvd, Orlando",HOTEL,75,2.5,269.0,3.4,"1 room, 3 adults",1,3
+241,Orlando,"Comfort Inn Maingate, Kissimmee",HOTEL,76,3.0,1120.0,3.9,"1 room, 3 adults",1,3
+242,Orlando,"La Quinta by Wyndham Orlando Universal area, Orlando",HOTEL,72,2.5,1050.0,3.6,"1 room, 3 adults",1,3
+243,Orlando,"Best Western Airport Inn & Suites, Orlando",HOTEL,94,2.5,1459.0,3.8,"1 room, 3 adults",1,3
+246,Orlando,"Extended Stay America - Orlando - Maitland -1760 Pembrook Dr, Orlando",HOTEL,66,2.5,130.0,3.0,"1 room, 3 adults",1,3
+247,Orlando,"Comfort Suites Maingate East, Kissimmee",HOTEL,99,3.0,1415.0,4.5,"1 room, 3 adults",1,3
+248,Orlando,"Holiday Inn Express Clermont, Clermont",HOTEL,98,2.5,139.0,4.5,"1 room, 3 adults",1,3
+249,Orlando,"Courtyard Orlando Lake Buena Vista in the Marriott Village, Orlando",HOTEL,89,3.0,775.0,4.3,"1 room, 3 adults",1,3
+250,Orlando,"SpringHill Suites Orlando Lake Buena Vista Marriott Village, Orlando",HOTEL,98,3.0,1155.0,4.2,"1 room, 3 adults",1,3
+251,Orlando,"Monumental Movieland Hotel Orlando, Orlando",HOTEL,54,3.0,584.0,3.0,"1 room, 3 adults",1,3
+252,Orlando,"Fairfield Inn & Suites Lake Buena Vista in Marriott Village, Orlando",HOTEL,89,3.0,1225.0,4.3,"1 room, 3 adults",1,3
+253,Orlando,"Embassy Suites Orlando - Downtown, Orlando",HOTEL,179,3.5,260.0,4.3,"1 room, 3 adults",1,3
+254,Orlando,"Homewood Suites by Hilton Orlando-Maitland, Maitland",HOTEL,92,3.0,272.0,4.6,"1 room, 3 adults",1,3
+255,Orlando,"Quality Inn Davenport - Maingate South, Davenport",HOTEL,63,2.5,203.0,3.2,"1 room, 3 adults",1,3
+256,Orlando,"Hawthorn Suites by Wyndham Lake Buena Vista, a staySky Hotel, Orlando",HOTEL,83,3.0,1248.0,4.0,"1 room, 3 adults",1,3
+257,Orlando,"Best Western Orlando Convention Center Hotel, Orlando",HOTEL,72,2.5,466.0,4.0,"1 room, 3 adults",1,3
+258,Orlando,"Universal's Hard Rock Hotel Â®, Orlando",HOTEL,354,4.0,851.0,4.5,"1 room, 3 adults",1,3
+259,Orlando,"Springhill Suites By Marriott Orlando Altamonte Springs, Altamonte Springs",HOTEL,88,2.5,299.0,4.4,"1 room, 3 adults",1,3
+260,Orlando,"Hyatt Place across from Universal Orlando Resort, Orlando",HOTEL,98,3.0,589.0,4.2,"1 room, 3 adults",1,3
+261,Orlando,"staySky Suites - I Drive Orlando, Orlando",HOTEL,80,3.0,948.0,3.9,"1 room, 3 adults",1,3
+262,Orlando,"Sheraton Vistana Villages Resort Villas, I-Drive/Orlando, Orlando",HOTEL,139,4.0,1627.0,4.4,"1 room, 3 adults",1,3
+263,Orlando,"Holiday Inn Express & Suites Nearest Universal Orlando, Orlando",HOTEL,97,2.5,276.0,4.0,"1 room, 3 adults",1,3
+264,Orlando,"Comfort Inn & Suites near Universal Orlando Resort, Orlando",HOTEL,72,2.5,757.0,4.0,"1 room, 3 adults",1,3
+265,Orlando,"SpringHill Suites by Marriott Orlando Kissimmee, Kissimmee",HOTEL,87,3.0,320.0,4.5,"1 room, 3 adults",1,3
+266,Orlando,"Hyatt Place Orlando Airport, Orlando",HOTEL,95,3.0,424.0,4.3,"1 room, 3 adults",1,3
+267,Orlando,"Country Inn & Suites by Radisson, Orlando, FL, Orlando",HOTEL,71,2.5,904.0,3.6,"1 room, 3 adults",1,3
+268,Orlando,"Hilton Grand Vacations at SeaWorld, Orlando",HOTEL,95,4.0,964.0,4.4,"1 room, 3 adults",1,3
+270,Orlando,"Grand Bohemian Orlando, Autograph Collection, Orlando",HOTEL,239,4.5,288.0,4.4,"1 room, 3 adults",1,3
+271,Orlando,"Marriott's Harbour Lake, Orlando",HOTEL,139,3.0,231.0,4.7,"1 room, 3 adults",1,3
+272,Orlando,"Hilton Garden Inn Orlando East/UCF, Orlando",HOTEL,108,3.0,242.0,4.4,"1 room, 3 adults",1,3
+273,Orlando,"Holiday Inn Club Vacations Orlando Breeze Resort, Davenport",HOTEL,119,3.5,44.0,4.5,"1 room, 3 adults",1,3
+274,Orlando,"Disney's Animal Kingdom Lodge, Lake Buena Vista",HOTEL,304,4.0,7848.0,4.5,"1 room, 3 adults",1,3
+275,Orlando,"Disney's Pop Century Resort, Lake Buena Vista",HOTEL,126,3.0,1265.0,4.2,"1 room, 3 adults",1,3
+276,Orlando,"Residence Inn by Marriott Orlando Lake Buena Vista, Orlando",HOTEL,89,3.0,369.0,4.3,"1 room, 3 adults",1,3
+277,Orlando,"Hilton Garden Inn Orlando at SeaWorld, Orlando",HOTEL,84,3.0,667.0,4.4,"1 room, 3 adults",1,3
+278,Orlando,"Liki Tiki Village by Diamond Resorts, Winter Garden",HOTEL,59,3.5,3086.0,4.2,"1 room, 3 adults",1,3
+279,Orlando,"Parkway International Resort by Diamond Resorts, Kissimmee",HOTEL,65,3.0,1143.0,4.5,"1 room, 3 adults",1,3
+280,Orlando,"Red Roof Inn Orlando West - Ocoee, Ocoee",HOTEL,90,2.0,299.0,3.6,"1 room, 3 adults",1,3
+281,Orlando,"Sleep Inn & Suites Orlando International Airport, Orlando",HOTEL,63,2.5,1155.0,4.0,"1 room, 3 adults",1,3
+282,Orlando,"Fairfield Inn & Suites by Marriott Near Universal Orlando, Orlando",HOTEL,124,2.5,195.0,4.3,"1 room, 3 adults",1,3
+283,Orlando,"Fairfield Inn & Suites Orlando Int'l Drive/Convention Center, Orlando",HOTEL,93,3.0,408.0,4.3,"1 room, 3 adults",1,3
+285,Orlando,"Holiday Inn Express & Suites Orlando-South Lake Buena Vista, Kissimmee",HOTEL,93,3.0,173.0,4.2,"1 room, 3 adults",1,3
+287,Orlando,"Courtyard at Lake Lucerne, Orlando",HOTEL,179,2.5,158.0,4.1,"1 room, 3 adults",1,3
+288,Orlando,"Westgate Lakes Resort & Spa Universal Studios Area, Orlando",HOTEL,119,4.0,2436.0,3.9,"1 room, 3 adults",1,3
+289,Orlando,"Gaylord Palms Resort & Convention Center, Kissimmee",HOTEL,149,4.0,1336.0,4.4,"1 room, 3 adults",1,3
+290,Orlando,"Marriott's Grande Vista, Orlando",HOTEL,149,4.0,851.0,4.4,"1 room, 3 adults",1,3
+291,Orlando,"Super 8 by Wyndham Kissimmee, Kissimmee",HOTEL,50,2.0,243.0,2.9,"1 room, 3 adults",1,3
+292,Orlando,"Super 8 by Wyndham Orlando International Drive, Orlando",HOTEL,50,2.0,1799.0,3.1,"1 room, 3 adults",1,3
+293,Orlando,"Super 8 by Wyndham Kissimmee/Maingate/Orlando Area, Kissimmee",HOTEL,50,2.0,564.0,3.6,"1 room, 3 adults",1,3
+294,Orlando,"Residence Inn by Marriott Orlando at SeaWorld, Orlando",HOTEL,99,3.0,1060.0,4.3,"1 room, 3 adults",1,3
+295,Orlando,"Universal's Loews Royal Pacific Resort, Orlando",HOTEL,319,4.0,1656.0,4.6,"1 room, 3 adults",1,3
+296,Orlando,"InTown Suites Orlando UCF, Orlando",HOTEL,61,2.0,188.0,1.9,"1 room, 3 adults",1,3
+298,Orlando,"Comfort Suites Near Universal Orlando Resort, Orlando",HOTEL,109,2.5,444.0,4.4,"1 room, 3 adults",1,3
+299,Orlando,"Arnold Palmer's Bay Hill Club & Lodge, Orlando",HOTEL,138,4.0,274.0,4.6,"1 room, 3 adults",1,3
+300,Orlando,"Disney's Beach Club Resort, Lake Buena Vista",HOTEL,380,4.0,96.0,4.4,"1 room, 3 adults",1,3
+301,Orlando,"Disney's Wilderness Lodge, Lake Buena Vista",HOTEL,377,4.0,624.0,4.4,"1 room, 3 adults",1,3
+302,Orlando,"Polynesian Isles by Diamond Resorts, Kissimmee",HOTEL,107,3.0,1119.0,4.7,"1 room, 3 adults",1,3
+303,Orlando,"TownePlace Suites by Marriott Orlando East/UCF Area, Orlando",HOTEL,87,2.5,112.0,4.4,"1 room, 3 adults",1,3
+304,Orlando,"Red Carpet Inn, Kissimmee",HOTEL,39,2.5,199.0,2.1,"1 room, 3 adults",1,3
+305,Orlando,"Country Inn & Suites by Radisson, Orlando Airport, FL, Orlando",HOTEL,101,3.0,2394.0,3.9,"1 room, 3 adults",1,3
+306,Orlando,"Crowne Plaza Orlando Universal, Orlando",HOTEL,108,4.0,525.0,4.1,"1 room, 3 adults",1,3
+308,Orlando,"Barefoot N Resort by Diamond Resorts, Kissimmee",HOTEL,94,3.0,543.0,4.5,"1 room, 3 adults",1,3
+309,Orlando,"Mystic Dunes Resort & Golf Club by Diamond Resorts, Kissimmee",HOTEL,94,3.5,2821.0,4.3,"1 room, 3 adults",1,3
+310,Orlando,"Orlando Continental Plaza Hotel, Orlando",HOTEL,44,2.0,1642.0,2.4,"1 room, 3 adults",1,3
+311,Orlando,"Exploria Express by Exploria Resorts, Clermont",HOTEL,83,2.5,912.0,4.1,"1 room, 3 adults",1,3
+312,Orlando,"Clarion Inn & Suites Kissimmee-Lake Buena Vista South, Kissimmee",HOTEL,67,2.0,112.0,3.6,"1 room, 3 adults",1,3
+313,Orlando,"Quality Inn & Suites Heritage Park, Kissimmee",HOTEL,67,2.5,400.0,4.2,"1 room, 3 adults",1,3
+315,Orlando,"JW Marriott Orlando Grande Lakes, Orlando",HOTEL,209,4.0,538.0,4.5,"1 room, 3 adults",1,3
+316,Orlando,"Ramada Plaza Resort & Suites by Wyndham Orlando Intl Drive, Orlando",HOTEL,99,3.0,805.0,3.5,"1 room, 3 adults",1,3
+317,Orlando,"Sevilla Inn, Kissimmee",HOTEL,50,2.0,178.0,3.1,"1 room, 3 adults",1,3
+318,Orlando,"Hampton Inn & Suites Orlando-International Dr. North, Orlando",HOTEL,92,2.5,400.0,4.3,"1 room, 3 adults",1,3
+319,Orlando,"Best Western Plus Kissimmee-Lake Buena Vista South Inn & Suites, Kissimmee",HOTEL,85,2.5,241.0,4.3,"1 room, 3 adults",1,3
+320,Orlando,"Homewood Suites By Hilton Orlando-Nearest Universal Studios, Orlando",HOTEL,127,3.0,312.0,4.4,"1 room, 3 adults",1,3
+321,Orlando,"The Ritz-Carlton Orlando, Grande Lakes, Orlando",HOTEL,309,5.0,354.0,4.6,"1 room, 3 adults",1,3
+323,Orlando,"Clarion Hotel Orlando International Airport, Orlando",HOTEL,71,2.5,1216.0,2.8,"1 room, 3 adults",1,3
+324,Orlando,"Wingate by Wyndham - Orlando International Airport, Orlando",HOTEL,104,3.0,1108.0,4.3,"1 room, 3 adults",1,3
+325,Orlando,"Hilton Garden Inn Orlando International Drive North, Orlando",HOTEL,109,3.0,242.0,4.5,"1 room, 3 adults",1,3
+327,Orlando,"Motel 6 Orlando - International Drive, Orlando",HOTEL,54,2.0,802.0,3.3,"1 room, 3 adults",1,3
+328,Orlando,"Fairfield Inn & Suites Orlando Ocoee, Ocoee",HOTEL,100,3.0,119.0,4.4,"1 room, 3 adults",1,3
+329,Orlando,"Reunion Resort & Golf Club, Orlando",HOTEL,169,5.0,2191.0,4.4,"1 room, 3 adults",1,3
+330,Orlando,"Motel 6 Orlando-Kissimmee Main Gate East, Kissimmee",HOTEL,50,1.5,618.0,3.8,"1 room, 3 adults",1,3
+331,Orlando,"Rodeway Inn Kissimmee Maingate West, Kissimmee",HOTEL,33,2.0,414.0,2.8,"1 room, 3 adults",1,3
+332,Orlando,"Omni Orlando Resort at ChampionsGate, Davenport",HOTEL,135,4.5,703.0,4.5,"1 room, 3 adults",1,3
+333,Orlando,"Motel 6 Orlando - Winter Park, Orlando",HOTEL,60,2.0,215.0,2.8,"1 room, 3 adults",1,3
+334,Orlando,"Quality Inn & Suites Eastgate, Kissimmee",HOTEL,54,2.5,273.0,2.7,"1 room, 3 adults",1,3
+336,Orlando,"Disney's Saratoga Springs Resort & Spa, Lake Buena Vista",HOTEL,298,4.0,70.0,4.5,"1 room, 3 adults",1,3
+338,Orlando,"Westgate Leisure Resort, Orlando",HOTEL,119,3.0,168.0,3.9,"1 room, 3 adults",1,3
+339,Orlando,"Hilton Grand Vacations at Tuscany Village, Orlando",HOTEL,107,4.0,739.0,4.5,"1 room, 3 adults",1,3
+340,Orlando,"Homewood Suites by HiltonÂ® Orlando-UCF Area, Orlando",HOTEL,138,3.0,123.0,4.6,"1 room, 3 adults",1,3
+342,Orlando,"Holiday Inn Express Hotel & Suites Orlando South-Davenport, Davenport",HOTEL,95,2.5,215.0,4.5,"1 room, 3 adults",1,3
+343,Orlando,"Hapimag Lake Berkley Resort, Kissimmee",HOTEL,197,3.0,88.0,4.6,"1 room, 3 adults",1,3
+347,Orlando,"Bluegreen Vacations Fountains, Ascend Resort Collection, Orlando",HOTEL,224,3.0,1949.0,4.3,"1 room, 3 adults",1,3
+349,Orlando,"Knights Inn Kissimmee, Kissimmee",HOTEL,60,2.0,94.0,2.4,"1 room, 3 adults",1,3
+350,Orlando,"Econo Lodge International Drive, Orlando",HOTEL,49,2.0,555.0,3.4,"1 room, 3 adults",1,3
+352,Orlando,"Hampton Inn and Suites Clermont, Clermont",HOTEL,121,2.5,84.0,4.4,"1 room, 3 adults",1,3
+356,Orlando,"Lake Buena Vista Resort Village & Spa a staySky Hotel/Resort, Orlando",HOTEL,178,4.0,1640.0,4.2,"1 room, 3 adults",1,3
+357,Orlando,"Shining Light Inn & Suites, Kissimmee",HOTEL,59,2.5,43.0,3.1,"1 room, 3 adults",1,3
+358,Orlando,"Floridays Resort Orlando, Orlando",HOTEL,143,3.5,2450.0,4.2,"1 room, 3 adults",1,3
+359,Orlando,"Ambassador Inn, Kissimmee",HOTEL,39,2.0,219.0,2.4,"1 room, 3 adults",1,3
+361,Orlando,"Rosen Shingle Creek, Orlando",HOTEL,149,4.5,1050.0,4.6,"1 room, 3 adults",1,3
+362,Orlando,"Days Inn by Wyndham Kissimmee West, Kissimmee",HOTEL,50,2.5,251.0,3.4,"1 room, 3 adults",1,3
+364,Orlando,"Vista Cay Resort by Millenium at Universal Blvd, Orlando",HOTEL,111,3.5,2349.0,4.3,"1 room, 3 adults",1,3
+366,Orlando,"Edgewater Hotel, Winter Garden",HOTEL,107,2.5,43.0,4.8,"1 room, 3 adults",1,3
+367,Orlando,"WorldQuest Orlando Resort, Orlando",HOTEL,135,4.0,1378.0,4.3,"1 room, 3 adults",1,3
+368,Orlando,"Wyndham Bonnet Creek Resort, Lake Buena Vista",HOTEL,237,3.5,4299.0,4.4,"1 room, 3 adults",1,3
+369,Orlando,"Fairfield Inn & Suites by Marriott Clermont, Clermont",HOTEL,109,2.5,307.0,4.5,"1 room, 3 adults",1,3
+371,Orlando,"Quality Inn Maingate West, Clermont",HOTEL,58,2.5,271.0,3.2,"1 room, 3 adults",1,3
+372,Orlando,"Calypso Cay Vacation Villas, Kissimmee",HOTEL,69,3.5,437.0,3.8,"1 room, 3 adults",1,3
+373,Orlando,"WoodSpring Suites Orlando Clarcona, Orlando",HOTEL,65,2.5,105.0,2.5,"1 room, 3 adults",1,3
+374,Orlando,"Howard Johnson by Wyndham Airport Florida Mall, Orlando",HOTEL,59,2.0,232.0,3.1,"1 room, 3 adults",1,3
+375,Orlando,"WoodSpring Suites Orlando Clermont, Clermont",HOTEL,70,2.5,138.0,2.4,"1 room, 3 adults",1,3
+377,Orlando,"Knights Inn Orlando, Orlando",HOTEL,60,1.5,220.0,2.4,"1 room, 3 adults",1,3
+379,Orlando,"The Berkley, Orlando (No Resort Fees) , Kissimmee",HOTEL,152,4.0,400.0,4.6,"1 room, 3 adults",1,3
+380,Orlando,"Melia Orlando Suite Hotel at Celebration, Celebration",HOTEL,125,4.0,1204.0,4.1,"1 room, 3 adults",1,3
+381,Orlando,"Hampton Inn & Suites Orlando/South Lake Buena Vista, FL, Kissimmee",HOTEL,98,2.5,230.0,4.4,"1 room, 3 adults",1,3
+382,Orlando,"Park Plaza Hotel, Winter Park",HOTEL,199,3.0,238.0,4.1,"1 room, 3 adults",1,3
+383,Orlando,"Hampton Inn & Suites Orlando John Young Pkwy/S. Park, Orlando",HOTEL,76,2.5,359.0,4.6,"1 room, 3 adults",1,3
+384,Orlando,"Seasons Florida Resort, Kissimmee",HOTEL,53,2.0,756.0,3.8,"1 room, 3 adults",1,3
+385,Orlando,"Springhill Suites by Marriott Orlando Airport, Orlando",HOTEL,99,3.0,602.0,4.5,"1 room, 3 adults",1,3
+386,Orlando,"Residence Inn Orlando Airport, Orlando",HOTEL,111,3.0,400.0,4.5,"1 room, 3 adults",1,3
+387,Orlando,"Las Palmeras by Hilton Grand Vacations, Orlando",HOTEL,191,4.0,341.0,4.3,"1 room, 3 adults",1,3
+388,Orlando,"Regal Oaks - The Official CLC World Resort, Kissimmee",HOTEL,303,4.0,774.0,4.4,"1 room, 3 adults",1,3
+389,Orlando,"The Point Hotel & Suites, Orlando",HOTEL,98,3.5,3348.0,4.4,"1 room, 3 adults",1,3
+391,Orlando,"Rodeway Inn Near Florida Mall, Orlando",HOTEL,59,2.0,83.0,2.2,"1 room, 3 adults",1,3
+393,Orlando,"Disney's Animal Kingdom Villas - Kidani Village, Lake Buena Vista",HOTEL,605,4.0,1614.0,4.4,"1 room, 3 adults",1,3
+394,Orlando,"Holiday Inn Express Hotel & Suites Ocoee East, Orlando",HOTEL,89,2.5,234.0,4.1,"1 room, 3 adults",1,3
+395,Orlando,"Holiday Inn Express & Suites, International Drive, Orlando",HOTEL,84,2.5,554.0,4.4,"1 room, 3 adults",1,3
+396,Orlando,"Studio 6 Orlando - Kissimmee, Kissimmee",HOTEL,54,2.0,103.0,3.7,"1 room, 3 adults",1,3
+398,Orlando,"Hilton Orlando, Orlando",HOTEL,146,4.0,817.0,4.4,"1 room, 3 adults",1,3
+399,Orlando,"Waldorf Astoria Orlando, Orlando",HOTEL,258,5.0,621.0,4.5,"1 room, 3 adults",1,3
+400,Orlando,"Hilton Orlando Bonnet Creek Resort, Orlando",HOTEL,169,4.0,893.0,4.4,"1 room, 3 adults",1,3
+401,Orlando,"Hilton Garden Inn Lake Buena Vista/Orlando, Orlando",HOTEL,93,3.0,382.0,4.3,"1 room, 3 adults",1,3
+402,Orlando,"Parc Soleil by Hilton Grand Vacations, Orlando",HOTEL,101,4.0,218.0,4.4,"1 room, 3 adults",1,3
+403,Orlando,"Homewood Suites by Hilton Lake Buena Vista Orlando, Orlando",HOTEL,105,3.0,450.0,4.3,"1 room, 3 adults",1,3
+404,Orlando,"WoodSpring Suites Orlando South, Orlando",HOTEL,90,2.5,155.0,2.8,"1 room, 3 adults",1,3
+407,Manhattan,"The Surrey, New York",HOTEL,581,5.0,256.0,4.5,"1 room, 3 adults",1,3
+409,Manhattan,"Gramercy Park Hotel, New York",HOTEL,408,5.0,339.0,4.3,"1 room, 3 adults",1,3
+410,Manhattan,"Hotel Pennsylvania, New York",HOTEL,99,2.5,6818.0,2.4,"1 room, 3 adults",1,3
+414,Manhattan,"DoubleTree by Hilton New York City - Financial District, New York",HOTEL,152,4.0,1071.0,3.8,"1 room, 3 adults",1,3
+415,Manhattan,"Residence Inn Marriott New York Downtown Manhattan/WTC Area, New York",HOTEL,148,3.5,623.0,4.5,"1 room, 3 adults",1,3
+416,Manhattan,"The Sherry Netherland, New York",HOTEL,459,4.5,163.0,4.8,"1 room, 3 adults",1,3
+417,Manhattan,"The Franklin Hotel, New York",HOTEL,207,3.5,544.0,3.4,"1 room, 3 adults",1,3
+418,Manhattan,"Orchard Street Hotel, New York",HOTEL,125,3.0,277.0,3.9,"1 room, 3 adults",1,3
+420,Manhattan,"Staybridge Suites Times Square, New York",HOTEL,125,3.5,1692.0,4.2,"1 room, 3 adults",1,3
+422,Manhattan,"Fairfield Inn & Suites New York Manhattan/Downtown East, New York",HOTEL,119,2.5,237.0,4.3,"1 room, 3 adults",1,3
+424,Manhattan,"City Club Hotel, New York",HOTEL,129,4.0,865.0,4.3,"1 room, 3 adults",1,3
+425,Manhattan,"Best Western Plus Hospitality House, New York",HOTEL,150,2.5,212.0,4.4,"1 room, 3 adults",1,3
+426,Manhattan,"Holiday Inn Express New York City- Wall Street, New York",HOTEL,96,3.0,423.0,4.1,"1 room, 3 adults",1,3
+432,Manhattan,"W New York - Union Square, New York",HOTEL,314,4.5,234.0,4.3,"1 room, 3 adults",1,3
+434,Manhattan,"Four Seasons Hotel New York Downtown, New York",HOTEL,555,5.0,171.0,4.8,"1 room, 3 adults",1,3
+436,Manhattan,"Dylan Hotel NYC, New York",HOTEL,170,4.0,549.0,3.8,"1 room, 3 adults",1,3
+437,Manhattan,"The William, New York",HOTEL,179,4.0,18.0,4.6,"1 room, 3 adults",1,3
+440,Manhattan,"Refinery Hotel, New York",HOTEL,179,5.0,852.0,4.6,"1 room, 3 adults",1,3
+441,Manhattan,"The Chatwal, a Luxury Collection Hotel, New York City, New York",HOTEL,525,5.0,127.0,4.6,"1 room, 3 adults",1,3
+442,Manhattan,"Courtyard by Marriott New York Manhattan / Chelsea, New York",HOTEL,127,3.5,558.0,4.5,"1 room, 3 adults",1,3
+443,Manhattan,"Pod 39, New York",HOTEL,119,3.0,3393.0,4.2,"1 room, 3 adults",1,3
+444,Manhattan,"Incentra Village Hotel, New York",HOTEL,188,3.0,73.0,4.1,"1 room, 3 adults",1,3
+446,Manhattan,"Hotel 48LEX New York, New York",HOTEL,187,4.5,480.0,4.2,"1 room, 3 adults",1,3
+447,Manhattan,"The Peninsula New York, New York",HOTEL,745,5.0,568.0,4.7,"1 room, 3 adults",1,3
+448,Manhattan,"GEM Hotel - Chelsea, New York",HOTEL,134,3.0,266.0,3.9,"1 room, 3 adults",1,3
+449,Manhattan,"Holiday Inn Express Manhattan Times Square South, New York",HOTEL,126,3.0,609.0,4.2,"1 room, 3 adults",1,3
+451,Manhattan,"Cambria Hotel New York - Times Square, New York",HOTEL,118,3.0,1023.0,4.5,"1 room, 3 adults",1,3
+452,Manhattan,"Chambers Hotel, New York",HOTEL,251,4.0,280.0,4.4,"1 room, 3 adults",1,3
+455,Manhattan,"NoMo SoHo, New York",HOTEL,148,4.5,885.0,4.2,"1 room, 3 adults",1,3
+456,Manhattan,"The Pierre, A Taj Hotel, New York, New York",HOTEL,595,5.0,267.0,4.7,"1 room, 3 adults",1,3
+460,Manhattan,"Hampton Inn New York - 35th Street - Empire State Building, New York",HOTEL,99,3.0,963.0,4.3,"1 room, 3 adults",1,3
+462,Manhattan,"Hampton Inn Manhattan-Seaport-Financial District, New York",HOTEL,134,3.0,315.0,4.1,"1 room, 3 adults",1,3
+466,Manhattan,"The Manhattan at Times Square Hotel, New York",HOTEL,94,4.0,4077.0,3.1,"1 room, 3 adults",1,3
+467,Manhattan,"Renaissance New York Hotel 57, New York",HOTEL,146,4.0,739.0,4.1,"1 room, 3 adults",1,3
+469,Manhattan,"Soho Garden Hotel, New York",HOTEL,199,2.5,556.0,3.9,"1 room, 3 adults",1,3
+472,Manhattan,"1 Hotel Central Park, New York",HOTEL,289,5.0,619.0,4.6,"1 room, 3 adults",1,3
+473,Manhattan,"SIXTY SoHo, New York",HOTEL,195,4.5,200.0,4.6,"1 room, 3 adults",1,3
+474,Manhattan,"The Beekman, A Thompson Hotel, New York",HOTEL,329,5.0,455.0,4.7,"1 room, 3 adults",1,3
+475,Manhattan,"InterContinental - New York Times Square, New York",HOTEL,201,5.0,1189.0,4.2,"1 room, 3 adults",1,3
+477,Manhattan,"Hilton Garden Inn New York/West 35th Street, New York",HOTEL,98,3.0,1406.0,4.4,"1 room, 3 adults",1,3
+478,Manhattan,"11 Howard, New York",HOTEL,219,5.0,375.0,4.3,"1 room, 3 adults",1,3
+481,Manhattan,"Holiday Inn Express New York - Manhattan West Side, New York",HOTEL,105,3.0,641.0,4.1,"1 room, 3 adults",1,3
+482,Manhattan,"Walker Hotel Greenwich Village, New York",HOTEL,235,4.5,266.0,4.4,"1 room, 3 adults",1,3
+483,Manhattan,"Seton Hotel, New York",HOTEL,100,3.0,777.0,4.1,"1 room, 3 adults",1,3
+484,Manhattan,"Windsor Hotel, New York",HOTEL,136,2.0,289.0,2.7,"1 room, 3 adults",1,3
+485,Manhattan,"Best Western Premier Herald Square, New York",HOTEL,110,3.0,1170.0,4.4,"1 room, 3 adults",1,3
+487,Manhattan,"The Surrey, New York",HOTEL,581,5.0,256.0,4.5,"1 room, 3 adults",1,3
+488,Manhattan,"The Watson Hotel, New York",HOTEL,94,3.5,4095.0,3.9,"1 room, 3 adults",1,3
+490,Manhattan,"The Benjamin, New York",HOTEL,199,4.5,421.0,4.4,"1 room, 3 adults",1,3
+494,Manhattan,"Holiday Inn Express New York City Times Square, New York",HOTEL,110,3.0,778.0,3.9,"1 room, 3 adults",1,3
+495,Manhattan,"Cassa Hotel NY 45th Street, New York",HOTEL,180,4.0,1270.0,4.4,"1 room, 3 adults",1,3
+496,Manhattan,"New York Marriott East Side, New York",HOTEL,206,4.0,852.0,4.1,"1 room, 3 adults",1,3
+498,Manhattan,"The Kimberly Hotel, New York",HOTEL,218,4.0,1516.0,4.7,"1 room, 3 adults",1,3
+499,Manhattan,"The Lex NYC, New York",HOTEL,149,3.5,398.0,4.4,"1 room, 3 adults",1,3
+501,Manhattan,"The Mark, New York",HOTEL,695,5.0,197.0,4.8,"1 room, 3 adults",1,3
+502,Manhattan,"Hampton Inn Manhattan-Chelsea, New York",HOTEL,101,3.0,815.0,4.3,"1 room, 3 adults",1,3
+503,Manhattan,"Edge Hotel, New York",HOTEL,209,3.5,294.0,4.4,"1 room, 3 adults",1,3
+504,Manhattan,"Green Holidays Apartments, New York",HOTEL,94,3.5,37.0,3.1,"1 room, 3 adults",1,3
+505,Manhattan,"Stewart Hotel, New York",HOTEL,116,4.0,2935.0,3.8,"1 room, 3 adults",1,3
+506,Manhattan,"Fifty Hotel & Suites by Affinia, New York",HOTEL,125,4.0,808.0,4.2,"1 room, 3 adults",1,3
+507,Manhattan,"Candlewood Suites New York City-Times Square, New York",HOTEL,115,3.0,459.0,4.1,"1 room, 3 adults",1,3
+508,Manhattan,"Shelburne Hotel & Suites by Affinia, New York",HOTEL,174,4.0,1934.0,4.1,"1 room, 3 adults",1,3
+509,Manhattan,"Hilton New York Fashion District, New York",HOTEL,107,4.0,826.0,4.3,"1 room, 3 adults",1,3
+510,Manhattan,"Arlo SoHo, New York",HOTEL,144,4.0,1169.0,4.4,"1 room, 3 adults",1,3
+511,Manhattan,"Hampton Inn Madison Square Garden Area Hotel, New York",HOTEL,110,3.0,781.0,4.3,"1 room, 3 adults",1,3
+512,Manhattan,"Duane Street Hotel Tribeca, New York",HOTEL,139,4.0,221.0,4.3,"1 room, 3 adults",1,3
+513,Manhattan,"Fitzpatrick Manhattan Hotel, New York",HOTEL,178,4.0,539.0,4.5,"1 room, 3 adults",1,3
+515,Manhattan,"Hotel Mulberry, New York",HOTEL,139,3.0,600.0,4.5,"1 room, 3 adults",1,3
+517,Manhattan,"DoubleTree by Hilton New York Times Square West, New York",HOTEL,95,4.0,1715.0,4.0,"1 room, 3 adults",1,3
+519,Manhattan,"WestHouse New York, New York",HOTEL,155,5.0,749.0,4.2,"1 room, 3 adults",1,3
+520,Manhattan,"Hotel On Rivington, New York",HOTEL,266,4.0,330.0,4.2,"1 room, 3 adults",1,3
+521,Manhattan,"Hilton Garden Inn New York/Midtown Park Ave, New York",HOTEL,100,3.5,696.0,4.4,"1 room, 3 adults",1,3
+522,Manhattan,"Homewood Suites New York/Midtown Manhattan Times Square, New York",HOTEL,129,3.5,1446.0,4.5,"1 room, 3 adults",1,3
+523,Manhattan,"The Langham, New York, Fifth Avenue, New York",HOTEL,401,5.0,548.0,4.7,"1 room, 3 adults",1,3
+525,Manhattan,"Hampton Inn Manhattan Grand Central, New York",HOTEL,114,3.0,436.0,4.4,"1 room, 3 adults",1,3
+526,Manhattan,"The Marcel at Gramercy, New York",HOTEL,129,4.0,739.0,4.1,"1 room, 3 adults",1,3
+528,Manhattan,"The Ridge Hotel, New York",HOTEL,104,3.0,234.0,4.2,"1 room, 3 adults",1,3
+529,Manhattan,"INNSIDE by MeliÃ  New York Nomad, New York",HOTEL,172,4.5,1472.0,4.4,"1 room, 3 adults",1,3
+531,Manhattan,"Hotel St. James, New York",HOTEL,231,2.5,3644.0,3.8,"1 room, 3 adults",1,3
+532,Manhattan,"Courtyard by Marriott New York Manhattan/Upper East Side, New York",HOTEL,119,3.5,1186.0,4.1,"1 room, 3 adults",1,3
+533,Manhattan,"Hotel Edison, New York",HOTEL,87,3.5,4500.0,3.8,"1 room, 3 adults",1,3
+534,Manhattan,"Courtyard by Marriott New York Manhattan / Central Park, New York",HOTEL,179,3.5,490.0,4.3,"1 room, 3 adults",1,3
+536,Manhattan,"Hotel Mimosa, New York",HOTEL,153,2.5,291.0,4.1,"1 room, 3 adults",1,3
+537,Manhattan,"YOTEL New York, New York",HOTEL,129,4.0,6367.0,4.2,"1 room, 3 adults",1,3
+538,Manhattan,"The Townhouse Inn of Chelsea, New York",HOTEL,199,3.5,321.0,4.5,"1 room, 3 adults",1,3
+540,Manhattan,"Hilton Garden Inn Times Square, New York",HOTEL,99,3.5,1933.0,4.3,"1 room, 3 adults",1,3
+542,Manhattan,"Residence Inn New York Manhattan/Central Park, New York",HOTEL,219,3.5,558.0,4.4,"1 room, 3 adults",1,3
+543,Manhattan,"Four Points by Sheraton Midtown-Times Square, New York",HOTEL,115,3.5,631.0,4.2,"1 room, 3 adults",1,3
+544,Manhattan,"Sanctuary NYC Retreats, New York",HOTEL,134,3.0,87.0,4.6,"1 room, 3 adults",1,3
+545,Manhattan,"Royalton Park Avenue, New York",HOTEL,150,5.0,618.0,4.3,"1 room, 3 adults",1,3
+546,Manhattan,"Roxy Hotel Tribeca, New York",HOTEL,219,4.5,841.0,4.5,"1 room, 3 adults",1,3
+549,Manhattan,"Marrakech Hotel New York City, New York",HOTEL,85,3.0,822.0,3.2,"1 room, 3 adults",1,3
+551,Manhattan,"Skyline Hotel, New York",HOTEL,158,3.0,880.0,4.0,"1 room, 3 adults",1,3
+554,Manhattan,"Club Quarters Hotel, Grand Central, New York",HOTEL,137,4.0,1208.0,4.4,"1 room, 3 adults",1,3
+556,Manhattan,"The Time New York, New York",HOTEL,159,4.5,722.0,4.2,"1 room, 3 adults",1,3
+558,Manhattan,"Hotel Giraffe by Library Hotel Collection, New York",HOTEL,251,4.0,316.0,4.8,"1 room, 3 adults",1,3
+560,Manhattan,"Baccarat Hotel and Residences New York, New York",HOTEL,945,5.0,109.0,4.7,"1 room, 3 adults",1,3
+563,Manhattan,"The Marmara Park Avenue, New York",HOTEL,293,5.0,380.0,4.4,"1 room, 3 adults",1,3
+564,Manhattan,"The Library Hotel by Library Hotel Collection, New York",HOTEL,287,4.0,265.0,4.8,"1 room, 3 adults",1,3
+568,Manhattan,"Hotel Wales, New York",HOTEL,183,3.5,371.0,4.1,"1 room, 3 adults",1,3
+570,Manhattan,"Aloft Harlem, New York",HOTEL,143,3.5,329.0,4.2,"1 room, 3 adults",1,3
+571,Manhattan,"DoubleTree by Hilton New York City - Chelsea, New York",HOTEL,103,4.0,1225.0,3.9,"1 room, 3 adults",1,3
+573,Manhattan,"Eurostars Wall Street, New York",HOTEL,103,4.0,347.0,3.7,"1 room, 3 adults",1,3
+574,Manhattan,"Holiday Inn Manhattan-Financial District, New York",HOTEL,95,4.0,1823.0,4.1,"1 room, 3 adults",1,3
+576,Manhattan,"Loews Regency New York Hotel, New York",HOTEL,459,5.0,635.0,4.5,"1 room, 3 adults",1,3
+577,Manhattan,"Warwick New York, New York",HOTEL,153,4.5,1529.0,4.4,"1 room, 3 adults",1,3
+578,Manhattan,"Fairfield Inn & Suites New York Midtown Manhattan/Penn Station, New York",HOTEL,134,3.0,1131.0,4.4,"1 room, 3 adults",1,3
+580,Manhattan,"The High Line Hotel, New York",HOTEL,199,4.0,215.0,4.4,"1 room, 3 adults",1,3
+581,Manhattan,"Bentley Hotel, New York",HOTEL,129,4.0,1349.0,3.9,"1 room, 3 adults",1,3
+586,Manhattan,"The Paul Hotel NYC-Chelsea, an Ascend Hotel Collection Member, New York",HOTEL,116,4.0,608.0,3.9,"1 room, 3 adults",1,3
+587,Manhattan,"Courtyard New York Manhattan/Times Square West, New York",HOTEL,111,3.5,727.0,4.5,"1 room, 3 adults",1,3
+588,Manhattan,"Hudson New York, Central Park, New York",HOTEL,149,4.0,2381.0,3.3,"1 room, 3 adults",1,3
+589,Manhattan,"The London NYC, New York",HOTEL,427,4.5,638.0,4.2,"1 room, 3 adults",1,3
+591,Manhattan,"AKA Times Square, New York",HOTEL,295,4.0,86.0,4.5,"1 room, 3 adults",1,3
+593,Manhattan,"Hotel Elysee by Library Hotel Collection, New York",HOTEL,212,4.0,305.0,4.7,"1 room, 3 adults",1,3
+595,Manhattan,"Hyatt House New York/Chelsea, New York",HOTEL,129,3.5,299.0,4.4,"1 room, 3 adults",1,3
+596,Manhattan,"Hyatt Centric Times Square New York, New York",HOTEL,219,4.5,1718.0,4.5,"1 room, 3 adults",1,3
+597,Manhattan,"Hampton Inn Manhattan/Times Square Central, New York",HOTEL,129,3.5,2213.0,4.6,"1 room, 3 adults",1,3
+599,Manhattan,"Room Mate Grace Boutique Hotel, New York",HOTEL,161,3.5,959.0,4.4,"1 room, 3 adults",1,3
+600,Manhattan,"Four Seasons Hotel New York, New York",HOTEL,1195,5.0,59.0,4.6,"1 room, 3 adults",1,3
+601,Manhattan,"The Nolitan, New York",HOTEL,190,3.5,99.0,4.3,"1 room, 3 adults",1,3
+603,Manhattan,"The Sohotel, New York",HOTEL,123,3.0,542.0,4.2,"1 room, 3 adults",1,3
+604,Manhattan,"Casablanca Hotel by Library Hotel Collection, New York",HOTEL,242,4.0,450.0,4.8,"1 room, 3 adults",1,3
+605,Manhattan,"The Evelyn Hotel, New York",HOTEL,143,4.0,773.0,4.1,"1 room, 3 adults",1,3
+606,Manhattan,"Mayfair New York, New York",HOTEL,123,3.0,1365.0,3.5,"1 room, 3 adults",1,3
+609,Manhattan,"Excelsior Hotel, New York",HOTEL,231,3.5,1297.0,4.3,"1 room, 3 adults",1,3
+611,Manhattan,"Washington Jefferson Hotel, New York",HOTEL,137,3.5,751.0,3.7,"1 room, 3 adults",1,3
+614,Manhattan,"Econo Lodge Times Square, New York",HOTEL,110,2.5,498.0,3.7,"1 room, 3 adults",1,3
+617,Manhattan,"The Roosevelt Hotel, New York City, New York",HOTEL,134,4.0,8923.0,3.4,"1 room, 3 adults",1,3
+618,Manhattan,"Harlem YMCA, New York",HOTEL,97,2.0,177.0,3.4,"1 room, 3 adults",1,3
+620,Manhattan,"Hotel Pennsylvania, New York",HOTEL,99,2.5,6818.0,2.4,"1 room, 3 adults",1,3
+622,Manhattan,"AKA Wall Street, New York",HOTEL,225,4.0,315.0,4.7,"1 room, 3 adults",1,3
+623,Manhattan,"Park Central Hotel New York, New York",HOTEL,95,4.0,4203.0,3.9,"1 room, 3 adults",1,3
+626,Manhattan,"The Hotel 91, New York",HOTEL,151,3.0,900.0,3.8,"1 room, 3 adults",1,3
+627,Manhattan,"The NoMad Hotel, New York",HOTEL,395,5.0,369.0,4.7,"1 room, 3 adults",1,3
+630,Manhattan,"Wyndham Midtown 45 at New York City, New York",HOTEL,209,3.0,58.0,3.7,"1 room, 3 adults",1,3
+632,Manhattan,"The Ludlow Hotel, New York",HOTEL,325,4.5,311.0,4.7,"1 room, 3 adults",1,3
+634,Manhattan,"Hotel 309, New York",HOTEL,100,2.0,275.0,2.6,"1 room, 3 adults",1,3
+635,Manhattan,"Lotte New York Palace, New York",HOTEL,325,4.5,2142.0,4.6,"1 room, 3 adults",1,3
+639,Manhattan,"Wolcott Hotel, New York",HOTEL,250,2.5,375.0,4.1,"1 room, 3 adults",1,3
+641,Manhattan,"Broadway Plaza Hotel, New York",HOTEL,149,3.5,1127.0,4.3,"1 room, 3 adults",1,3
+642,Manhattan,"CITY ROOMS NYC - Chelsea, New York",HOTEL,134,2.0,166.0,3.7,"1 room, 3 adults",1,3
+644,Manhattan,"Empire Hotel, New York",HOTEL,175,4.0,2364.0,3.7,"1 room, 3 adults",1,3
+645,Manhattan,"Hotel 31, New York",HOTEL,106,2.0,1079.0,4.0,"1 room, 3 adults",1,3
+646,Manhattan,"Arthouse Hotel New York City, New York",HOTEL,135,4.0,1862.0,4.3,"1 room, 3 adults",1,3
+648,Manhattan,"Marriott Vacation Club Pulse, New York City, New York",HOTEL,134,4.0,236.0,4.2,"1 room, 3 adults",1,3
+650,Manhattan,"The Gotham Hotel, New York",HOTEL,159,4.5,921.0,4.0,"1 room, 3 adults",1,3
+652,Manhattan,"Embassy Suites by Hilton New York Midtown Manhattan, New York",HOTEL,107,3.5,469.0,4.4,"1 room, 3 adults",1,3
+653,Manhattan,"Omni Berkshire Place, New York",HOTEL,197,4.5,1322.0,4.4,"1 room, 3 adults",1,3
+655,Manhattan,"Travel Inn Hotel, New York",HOTEL,160,2.5,1123.0,3.9,"1 room, 3 adults",1,3
+656,Manhattan,"NobleDEN Hotel, New York",HOTEL,194,4.0,885.0,4.7,"1 room, 3 adults",1,3
+657,Manhattan,"East Village Hotel, New York",HOTEL,188,3.0,191.0,4.1,"1 room, 3 adults",1,3
+658,Manhattan,"The Westin New York at Times Square, New York",HOTEL,175,4.5,2108.0,4.2,"1 room, 3 adults",1,3
+662,Manhattan,"The Knickerbocker Hotel, New York",HOTEL,236,5.0,1227.0,4.5,"1 room, 3 adults",1,3
+663,Manhattan,"Mandarin Oriental, New York, New York",HOTEL,895,5.0,106.0,4.6,"1 room, 3 adults",1,3
+664,Manhattan,"Club Quarters Hotel, World Trade Center, New York",HOTEL,143,4.0,928.0,4.4,"1 room, 3 adults",1,3
+667,Manhattan,"Dream Downtown, New York",HOTEL,150,4.5,769.0,3.8,"1 room, 3 adults",1,3
+669,Manhattan,"AKA Tribeca, New York",HOTEL,224,4.0,241.0,4.5,"1 room, 3 adults",1,3
+671,Manhattan,"Midtown Convention Center Hotel, New York",HOTEL,184,3.0,346.0,3.0,"1 room, 3 adults",1,3
+674,Manhattan,"The James New York- SoHo, New York",HOTEL,253,4.5,310.0,4.1,"1 room, 3 adults",1,3
+675,Manhattan,"6 Columbus Central Park a Sixty Hotel, New York",HOTEL,190,4.5,240.0,3.8,"1 room, 3 adults",1,3
+676,Manhattan,"Millennium Times Square New York, New York",HOTEL,180,4.0,3365.0,3.8,"1 room, 3 adults",1,3
+677,Manhattan,"U Hotel Fifth Avenue, New York",HOTEL,109,3.0,352.0,4.0,"1 room, 3 adults",1,3
+680,Manhattan,"New World Hotel, New York",HOTEL,71,1.5,574.0,1.8,"1 room, 3 adults",1,3
+682,Manhattan,"Aloft Manhattan Downtown - Financial District, New York",HOTEL,109,3.0,300.0,4.4,"1 room, 3 adults",1,3
+683,Manhattan,"Salisbury Hotel, New York",HOTEL,88,3.0,5038.0,3.7,"1 room, 3 adults",1,3
+686,Manhattan,"The Bowery House, New York",HOTEL,109,2.0,259.0,3.1,"1 room, 3 adults",1,3
+687,Manhattan,"Flatiron Hotel, New York",HOTEL,149,4.0,372.0,3.3,"1 room, 3 adults",1,3
+688,Manhattan,"Days Hotel by Wyndham on Broadway NYC, New York",HOTEL,97,2.5,1641.0,2.9,"1 room, 3 adults",1,3
+689,Manhattan,"Carvi Hotel New York, New York",HOTEL,119,3.0,214.0,4.2,"1 room, 3 adults",1,3
+691,Manhattan,"Hotel Boutique at Grand Central, New York",HOTEL,137,4.0,1009.0,4.4,"1 room, 3 adults",1,3
+694,Manhattan,"The Wall Street Inn, New York",HOTEL,134,3.0,418.0,4.4,"1 room, 3 adults",1,3
+695,Manhattan,"San Carlos Hotel, New York",HOTEL,184,4.5,639.0,4.5,"1 room, 3 adults",1,3
+700,Manhattan,"Courtyard by Marriott New York City Manhattan Midtown East, New York",HOTEL,99,3.5,1826.0,4.4,"1 room, 3 adults",1,3
+703,Manhattan,"Four Points by Sheraton Manhattan SoHo Village, New York",HOTEL,109,3.5,349.0,4.1,"1 room, 3 adults",1,3
+709,Manhattan,"Off Soho Suites Hotel, New York",HOTEL,179,2.0,375.0,3.7,"1 room, 3 adults",1,3
+712,Manhattan,"World Center Hotel, New York",HOTEL,149,4.0,1313.0,4.3,"1 room, 3 adults",1,3
+717,Manhattan,"Fitzpatrick Grand Central, New York",HOTEL,158,4.0,832.0,4.4,"1 room, 3 adults",1,3
+725,Manhattan,"The Jewel facing Rockefeller Center, New York",HOTEL,161,4.0,2029.0,4.4,"1 room, 3 adults",1,3
+729,Manhattan,"citizenM New York Times Square, New York",HOTEL,174,4.0,1145.0,4.7,"1 room, 3 adults",1,3
+730,Manhattan,"Avalon Hotel, New York",HOTEL,135,4.0,700.0,4.2,"1 room, 3 adults",1,3
+731,Manhattan,"Hilton Garden Inn New York/Manhattan-Midtown East, New York",HOTEL,119,3.5,736.0,4.3,"1 room, 3 adults",1,3
+732,Manhattan,"Viceroy Central Park New York, New York",HOTEL,209,4.0,687.0,3.9,"1 room, 3 adults",1,3
+733,Manhattan,"The Pearl New York, New York",HOTEL,152,4.0,1196.0,4.6,"1 room, 3 adults",1,3
+734,Manhattan,"TRYP By Wyndham Times Square South, New York",HOTEL,124,4.5,1235.0,4.1,"1 room, 3 adults",1,3
+736,Manhattan,"The Mansfield Hotel, New York",HOTEL,98,3.5,825.0,3.5,"1 room, 3 adults",1,3
+737,Manhattan,"Dream Midtown, New York",HOTEL,150,4.0,957.0,4.1,"1 room, 3 adults",1,3
+738,Manhattan,"Trump International Hotel & Tower New York, New York",HOTEL,524,5.0,539.0,4.6,"1 room, 3 adults",1,3
+739,Manhattan,"Life Hotel NoMad, New York",HOTEL,125,4.0,433.0,4.0,"1 room, 3 adults",1,3
+740,Manhattan,"The Westin New York Grand Central, New York",HOTEL,125,4.5,1389.0,4.2,"1 room, 3 adults",1,3
+741,Manhattan,"Hyatt Place New York Midtown South, New York",HOTEL,129,3.5,885.0,4.4,"1 room, 3 adults",1,3
+743,Manhattan,"Q&A Residential Hotel, New York",HOTEL,224,4.0,669.0,4.7,"1 room, 3 adults",1,3
+745,Manhattan,"Kimpton Hotel Eventi, New York",HOTEL,189,5.0,1064.0,4.5,"1 room, 3 adults",1,3
+746,Manhattan,"Best Western Bowery Hanbee Hotel, New York",HOTEL,104,3.0,758.0,4.2,"1 room, 3 adults",1,3
+747,Manhattan,"Holiday Inn Express - New York City Chelsea, New York",HOTEL,114,3.0,951.0,4.1,"1 room, 3 adults",1,3
+749,Manhattan,"Park Hyatt New York, New York",HOTEL,895,5.0,83.0,4.4,"1 room, 3 adults",1,3
+750,Manhattan,"Blue Moon Boutique Hotel, New York",HOTEL,249,3.0,335.0,3.4,"1 room, 3 adults",1,3
+751,Manhattan,"Cachet Boutique New York, New York",HOTEL,170,4.0,579.0,3.9,"1 room, 3 adults",1,3
+753,Manhattan,"AKA Central Park, New York",HOTEL,575,4.0,216.0,4.4,"1 room, 3 adults",1,3
+754,Manhattan,"Renaissance New York Times Square Hotel, New York",HOTEL,178,4.0,477.0,4.4,"1 room, 3 adults",1,3
+755,Manhattan,"Fairfield Inn & Suites by Marriott New York ManhattanChelsea, New York",HOTEL,104,3.0,303.0,4.3,"1 room, 3 adults",1,3
+756,Manhattan,"Renaissance New York Midtown Hotel, New York",HOTEL,237,4.0,519.0,4.6,"1 room, 3 adults",1,3
+759,Manhattan,"Leon Hotel, New York",HOTEL,120,3.5,256.0,4.3,"1 room, 3 adults",1,3
+760,Manhattan,"West 57th Street by Hilton Club, New York",HOTEL,542,4.0,16.0,4.6,"1 room, 3 adults",1,3
+762,Manhattan,"Hotel Americano, New York",HOTEL,209,4.5,127.0,3.9,"1 room, 3 adults",1,3
+765,Manhattan,"Hotel 50 Bowery NYC, New York",HOTEL,189,4.5,865.0,4.6,"1 room, 3 adults",1,3
+769,Manhattan,"Gild Hall, A Thompson Hotel, New York",HOTEL,189,4.5,581.0,4.6,"1 room, 3 adults",1,3
+772,Manhattan,"Hotel Beacon, New York",HOTEL,321,4.0,1132.0,4.5,"1 room, 3 adults",1,3
+774,Manhattan,"St Marks Hotel, New York",HOTEL,136,3.0,354.0,3.1,"1 room, 3 adults",1,3
+775,Manhattan,"The Kitano Hotel New York, New York",HOTEL,274,4.5,833.0,4.5,"1 room, 3 adults",1,3
+776,Manhattan,"CITY ROOMS NYC - Soho, New York",HOTEL,99,2.5,231.0,4.3,"1 room, 3 adults",1,3
+777,Manhattan,"SIXTY Lower East Side, New York",HOTEL,190,4.5,376.0,4.0,"1 room, 3 adults",1,3
+778,Manhattan,"The Lexington Hotel, Autograph Collection, New York",HOTEL,140,4.0,1891.0,4.2,"1 room, 3 adults",1,3
+779,Manhattan,"The Hilton Club - New York, New York",HOTEL,429,4.0,43.0,4.3,"1 room, 3 adults",1,3
+781,Manhattan,"Holiday Inn NYC - Lower East Side, New York",HOTEL,96,4.0,331.0,4.3,"1 room, 3 adults",1,3
+782,Manhattan,"The Kimpton Muse Hotel, New York",HOTEL,179,4.5,726.0,4.6,"1 room, 3 adults",1,3
+786,Manhattan,"Chelsea Savoy Hotel, New York",HOTEL,235,2.0,1365.0,4.1,"1 room, 3 adults",1,3
+787,Manhattan,"Hotel Mela Times Square, New York",HOTEL,99,4.0,2037.0,3.9,"1 room, 3 adults",1,3
+788,Manhattan,"The Shoreham Hotel, New York",HOTEL,143,4.0,754.0,3.7,"1 room, 3 adults",1,3
+789,Manhattan,"New York Marriott Marquis, New York",HOTEL,220,4.5,3182.0,4.4,"1 room, 3 adults",1,3
+790,Manhattan,"Millennium Premier New York Times Square, New York",HOTEL,185,4.0,1260.0,4.2,"1 room, 3 adults",1,3
+793,Manhattan,"W New York - Times Square, New York",HOTEL,219,4.5,848.0,4.1,"1 room, 3 adults",1,3
+795,Manhattan,"Sheraton Tribeca New York Hotel, New York",HOTEL,107,4.0,897.0,4.0,"1 room, 3 adults",1,3
+799,Manhattan,"Row NYC, New York",HOTEL,89,4.0,5653.0,3.4,"1 room, 3 adults",1,3
+805,Manhattan,"Hotel Plaza Athenee, New York",HOTEL,539,5.0,544.0,4.4,"1 room, 3 adults",1,3
+806,Manhattan,"Chelsea Inn, New York",HOTEL,85,3.0,543.0,3.7,"1 room, 3 adults",1,3
+808,Manhattan,"Comfort Inn Times Square West, New York",HOTEL,123,2.5,823.0,3.9,"1 room, 3 adults",1,3
+809,Manhattan,"The Bernic Hotel New York City, Tapestry Collection by Hilton, New York",HOTEL,116,4.0,475.0,4.5,"1 room, 3 adults",1,3
+810,Manhattan,"Residence Inn by Marriott New York Manhattan/Times Square, New York",HOTEL,169,3.5,700.0,4.3,"1 room, 3 adults",1,3
+816,Manhattan,"Archer Hotel New York, New York",HOTEL,199,4.5,1256.0,4.7,"1 room, 3 adults",1,3
+818,Manhattan,"The Quin Central Park by Hilton Club, New York",HOTEL,377,5.0,448.0,4.4,"1 room, 3 adults",1,3
+823,Manhattan,"Sheraton New York Times Square Hotel, New York",HOTEL,169,4.0,2553.0,3.9,"1 room, 3 adults",1,3
+824,Manhattan,"Macy Empire Apartments, New York",HOTEL,210,3.5,59.0,3.0,"1 room, 3 adults",1,3
+826,Manhattan,"Colonial House Inn, New York",HOTEL,177,3.0,72.0,3.8,"1 room, 3 adults",1,3
+829,Manhattan,"255West Guesthouse, New York",HOTEL,195,3.5,74.0,4.5,"1 room, 3 adults",1,3
+831,Manhattan,"Hilton Garden Inn New York/Central Park South-Midtown West, New York",HOTEL,109,3.5,1385.0,4.3,"1 room, 3 adults",1,3
+835,Manhattan,"Four Points by Sheraton Manhattan - Chelsea, New York",HOTEL,99,3.0,521.0,4.2,"1 room, 3 adults",1,3
+836,Manhattan,"The Gallivant Times Square , New York",HOTEL,109,3.5,1382.0,3.7,"1 room, 3 adults",1,3
+839,Manhattan,"3 West Club, New York",HOTEL,159,3.5,233.0,4.1,"1 room, 3 adults",1,3
+840,Manhattan,"Conrad New York, New York",HOTEL,297,5.0,775.0,4.8,"1 room, 3 adults",1,3
+841,Manhattan,"Crowne Plaza Times Square Manhattan, New York",HOTEL,105,4.0,3824.0,4.2,"1 room, 3 adults",1,3
+842,Manhattan,"Bowery Grand Hotel, New York",HOTEL,77,1.0,265.0,2.2,"1 room, 3 adults",1,3
+843,Manhattan,"Blakely New York, New York",HOTEL,225,4.5,718.0,4.4,"1 room, 3 adults",1,3
+845,Manhattan,"Pod 51, New York",HOTEL,129,3.0,3427.0,4.0,"1 room, 3 adults",1,3
+847,Manhattan,"Park West Hotel, New York",HOTEL,90,3.0,412.0,3.2,"1 room, 3 adults",1,3
+848,Manhattan,"The Standard East Village, New York",HOTEL,195,4.0,368.0,4.4,"1 room, 3 adults",1,3
+849,Manhattan,"Casamia 36 Hotel, New York",HOTEL,146,3.0,361.0,3.7,"1 room, 3 adults",1,3
+852,Manhattan,"The Frederick Hotel, New York",HOTEL,127,4.0,497.0,4.3,"1 room, 3 adults",1,3
+856,Manhattan,"Hotel Indigo Lower East Side New York, New York",HOTEL,178,4.5,771.0,4.4,"1 room, 3 adults",1,3
+857,Manhattan,"Hotel 32 32, New York",HOTEL,124,4.0,1330.0,4.0,"1 room, 3 adults",1,3
+858,Manhattan,"Hudson River Hotel, New York",HOTEL,109,2.5,315.0,3.7,"1 room, 3 adults",1,3
+861,Manhattan,"Club Quarters Hotel, opposite Rockefeller Center, New York",HOTEL,151,4.0,1651.0,4.1,"1 room, 3 adults",1,3
+862,Manhattan,"Clarion Hotel Park Avenue, New York",HOTEL,199,2.5,69.0,3.7,"1 room, 3 adults",1,3
+863,Manhattan,"Night Hotel Theater District, Times Square, New York",HOTEL,129,4.0,558.0,3.8,"1 room, 3 adults",1,3
+866,Manhattan,"The Gregory Hotel, New York",HOTEL,135,4.0,1009.0,4.0,"1 room, 3 adults",1,3
+867,Manhattan,"414 Hotel, New York",HOTEL,296,3.5,90.0,4.8,"1 room, 3 adults",1,3
+868,Manhattan,"Soho Grand Hotel, New York",HOTEL,199,4.5,759.0,4.4,"1 room, 3 adults",1,3
+871,Manhattan,"Hilton Garden Inn New York/Manhattan-Chelsea, New York",HOTEL,157,3.5,968.0,4.3,"1 room, 3 adults",1,3
+872,Manhattan,"Washington Square Hotel, New York",HOTEL,308,3.5,333.0,4.4,"1 room, 3 adults",1,3
+876,Manhattan,"The Marmara Manhattan, New York",HOTEL,286,3.5,335.0,4.2,"1 room, 3 adults",1,3
+881,Manhattan,"The Inn at Irving Place, New York",HOTEL,295,4.0,111.0,4.5,"1 room, 3 adults",1,3
